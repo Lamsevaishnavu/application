@@ -1,2 +1,2 @@
 file A
-this is chnge in afile
+bdvc
